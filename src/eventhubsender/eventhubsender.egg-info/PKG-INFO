@@ -3,7 +3,7 @@ Name: eventhubsender
 Version: 0.1.0
 Summary: Microsoft Azure Command-Line Tools Eventhubsender Extension
 Home-page: https://github.com/Azure/azure-cli-extensions/tree/master/src/eventhubsender
-Author: Microsoft Corporation
+Author: Benjimawoo
 Author-email: azpycli@microsoft.com
 License: MIT
 Classifier: Development Status :: 4 - Beta
